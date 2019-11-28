@@ -1,0 +1,9 @@
+.component2 {
+  width: auto;
+  height: 400;
+  display: block;
+  overflow: auto;
+  font-size: 16px;
+  font-family: 'Open Sans';
+  background-color: #b63333;
+}

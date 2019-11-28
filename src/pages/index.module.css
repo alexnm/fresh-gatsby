@@ -1,0 +1,12 @@
+.page {
+  width: 100%;
+  display: block;
+  overflow: auto;
+  font-size: 16px;
+  min-height: 100vh;
+  font-family: Open Sans;
+  background-color: #fff;
+}
+.image {
+  width: 200px;
+}

@@ -1,0 +1,15 @@
+.component {
+  width: 900px;
+  height: auto;
+  display: block;
+  overflow: auto;
+  font-size: 16px;
+  font-family: Open Sans;
+  background-color: #fff;
+}
+.image {
+  width: 200px;
+}
+.image1 {
+  width: 200px;
+}
